@@ -107,6 +107,8 @@ https://www.weatherapi.com/
 
 B.Tech Artificial Intelligence & Machine Learning
 
-Learning Python by building real-world projects.
+Image Tutorial 
+<img width="1918" height="1020" alt="Screenshot 2026-06-27 134851" src="https://github.com/user-attachments/assets/84ff5b69-2b8b-4b1c-838c-b3163e7c0518" />
+
 
 ⭐ If you like this project, consider giving it a star on GitHub!
